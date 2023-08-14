@@ -1,2 +1,2 @@
-# NoiseFab
-A Fab within Noisebridge, SF, CA to allow for the production of Integrated Circuits and pcbs, with options to pick and place smd parts.
+#  BrainFab
+A Fab for the production of Integrated Circuits and pcbs all in one, as a complete item, 3D-Printed.
